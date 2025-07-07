@@ -17,6 +17,9 @@ It includes genre analysis, viewership ranking, and KPI cards.
 - Pie chart of genre distribution
 - KPI cards for Top Movie, Avg Watch Time, and Top Genre
 - Interactive filter by release year
+## Screenshots
+![image](https://github.com/user-attachments/assets/4f7cfee8-1def-414b-a6ed-fee3d910f7be)
+![image](https://github.com/user-attachments/assets/aaeae229-06a7-4c08-81c2-c1b0e6d349e2)
 
 
 ## ✅ Status
